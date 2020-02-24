@@ -1,4 +1,1 @@
-intro = 'Hello World"
-
-print(intro)
-id(intro)
+print('Hello world')
